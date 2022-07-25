@@ -1,0 +1,23 @@
+.color-1 {
+	background-color: white;
+	color: black;
+	text-align: center;
+	font-weight: bold;
+	border: 1px solid black;
+}
+
+.color-2 {
+	background-color: orange;
+	color: white;
+	border: 1px solid black;
+}
+
+.con-1 {
+	width: 50%;
+}
+
+.con5 {
+	background-color: grey;
+	text-align: right;
+	color: white;
+}
